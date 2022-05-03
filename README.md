@@ -1,2 +1,2 @@
-# .github
+# KalypsoCraft
 Description of this project
